@@ -27,11 +27,11 @@
 
 # Implementation 
 
-![stackoverflow-ar21](https://user-images.githubusercontent.com/34340232/154883292-11c058d4-51bd-4dd3-b3a2-80baa76cfae8.png)
-
-
 ![7](https://user-images.githubusercontent.com/34340232/154883102-c7cdd427-7798-497e-8182-d40e6c9aca7a.png)
 
 ## Some of you are wondering that why did we use [name] : value and not name : value
+
+![stackoverflow-ar21](https://user-images.githubusercontent.com/34340232/154883292-11c058d4-51bd-4dd3-b3a2-80baa76cfae8.png)
+
 ### Check this link for explaination [https://stackoverflow.com/questions/11508463/javascript-set-object-key-by-variable]
 
